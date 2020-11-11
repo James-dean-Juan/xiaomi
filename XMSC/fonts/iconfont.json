@@ -1,0 +1,93 @@
+{
+  "id": "2043968",
+  "name": "XMSC",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "130994",
+      "name": "7",
+      "font_class": "7",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "7957481",
+      "name": "15",
+      "font_class": "15",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "9262145",
+      "name": "维修",
+      "font_class": "weixiu",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "387259",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "2693816",
+      "name": "以旧换新",
+      "font_class": "yijiuhuanxin",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "2693921",
+      "name": "话费充值",
+      "font_class": "huafeichongzhi",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "3120945",
+      "name": "米粉卡",
+      "font_class": "mifenqia-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3234880",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "6293883",
+      "name": "礼盒",
+      "font_class": "lihe",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "13845792",
+      "name": "搜索--1",
+      "font_class": "xingtaiduICON_sousuo---copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "15022539",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "16418753",
+      "name": "小米商城F码",
+      "font_class": "xiaomishangchengFma",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
